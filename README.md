@@ -1,2 +1,2 @@
-# praticando_logica_com_js
+# Praticando Logica com JS
 Revendo conceitos de programação com JavaScript
